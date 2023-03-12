@@ -14,6 +14,13 @@
 <img src=https://img.shields.io/badge/blog-4FC08D?style=for-the-badge&logo=GithubPages&logoColor=white alt=GithubPages style="margin-bottom: 5px;" />
 </a>
 
+### 💻 Tech Stacks
+<p>
+  <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=black"/>
+  <img src="http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
 ## Github Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sefact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
