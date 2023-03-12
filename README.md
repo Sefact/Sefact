@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<a href="https://github.com/sefact" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://sefact.github.io" target="_blank">
+<img src=https://img.shields.io/badge/blog-%231E77B5.svg?&style=for-the-badge&logo=githubPages&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sefact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
