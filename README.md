@@ -3,7 +3,6 @@
 </div>  
 
 ## Hi there 👋
-
 <a href="https://github.com/sefact" target="_blank">
 <img src=https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -14,7 +13,11 @@
 <img src=https://img.shields.io/badge/blog-4FC08D?style=for-the-badge&logo=GithubPages&logoColor=white alt=GithubPages style="margin-bottom: 5px;" />
 </a>
 
-### 💻 Tech Stacks
+<p>Hello, I'm a Web developer working in South Korea.</p>
+<p>I mainly use JavaScript for front-end development, but I'm also interested in back-end development.</p>
+<p>My hobby is photography, and in my free time, I enjoy visiting different places and taking pictures.</p>
+
+### 💻 Tech Stack
 <!-- <p> -->
 <p>
   <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=black"/>
