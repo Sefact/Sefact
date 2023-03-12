@@ -14,7 +14,7 @@
 </a>
 
 <p>Hello, I'm a Web developer working in South Korea.</p>
-<p>I mainly use JavaScript for front-end development, but I'm also interested in back-end development.</p>
+<p>I specialize in front-end development using JavaScript and have recently been interested in frameworks like Vue.js.</p>
 <p>My hobby is photography, and in my free time, I enjoy visiting different places and taking pictures.</p>
 
 ### 💻 Tech Stack
